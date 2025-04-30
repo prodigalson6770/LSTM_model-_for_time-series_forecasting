@@ -1,4 +1,4 @@
-# LSTM_model-_for_time-series_forecasting
+# LSTM_model_for_timeseries_forecasting
 
 # Air Passengers Time Series Forecasting with LSTM
 
@@ -40,7 +40,7 @@ Example (last row in the dataset):
 
 ```bash
 git clone https://github.com/prodigalson6770/LSTM_model_for_timeseries_forecasting
-cd LSTM_model_for_time-series_forecasting
+cd LSTM_model_for_timeseries_forecasting
 ```
 
 2. **Ensure you have the required dependencies:**
