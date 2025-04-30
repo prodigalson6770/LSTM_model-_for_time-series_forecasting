@@ -61,7 +61,7 @@ pip install numpy pandas matplotlib
     - For a Python script, run:
 
 ```bash
-python your_script.py
+python LSTM_Forecasting_Model.py
 ```
 
 5. **View the Results:**
