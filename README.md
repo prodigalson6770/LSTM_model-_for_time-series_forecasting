@@ -39,8 +39,8 @@ Example (last row in the dataset):
 1. **Clone the repository and navigate to the project folder:**
 
 ```bash
-git clone https://github.com/prodigalson6770/LSTM_model-_for_time-series_forecasting
-cd LSTM_model-_for_time-series_forecasting
+git clone https://github.com/prodigalson6770/LSTM_model_for_timeseries_forecasting
+cd LSTM_model_for_time-series_forecasting
 ```
 
 2. **Ensure you have the required dependencies:**
